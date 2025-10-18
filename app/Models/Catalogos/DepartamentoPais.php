@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\catalogos;
+namespace App\Models\Catalogos;
 
 use MongoDB\Laravel\Eloquent\Model;
 

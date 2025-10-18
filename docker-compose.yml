@@ -31,7 +31,7 @@ services:
     image: nginx:latest
     container_name: laravel_nginx
     ports:
-      - "80:80"
+      - "8002:80"
       - "443:443"
     volumes:
       - ./:/app

@@ -2,7 +2,7 @@
 
 namespace App\Helpers;
 
-use App\Models\catalogos\DepartamentoPais;
+use App\Models\Catalogos\DepartamentoPais;
 use App\Models\Catalogos\NivelAcademico;
 
 class HomePageHelper
