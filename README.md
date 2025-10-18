@@ -41,9 +41,3 @@ Abre tu navegador y ve a:
 ```
 http://localhost:8002
 ```
-
-## Comandos útiles
-
-- Ver logs: `docker compose logs -f app`
-- Ejecutar migraciones: `docker compose exec app php artisan migrate`
-- Acceder a la consola de Laravel: `docker compose exec app php artisan tinker`
