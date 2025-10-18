@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "68f3a42c3ca22d2b7a87f999"
+  },
+  "id": 1,
+  "estado": "Estudiando"
+},
+{
+  "_id": {
+    "$oid": "68f3a44f3ca22d2b7a87f99b"
+  },
+  "id": 2,
+  "estado": "Completado"
+}]

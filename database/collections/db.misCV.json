@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "68f3a0b13ca22d2b7a87f98f"
+  },
+  "id": 1,
+  "correo": "correo@mail.com",
+  "nombre_completo": "Juan Perez",
+  "telefono": "+503 7777 8888",
+  "departamento": "san salvador",
+  "municipio": "san salvador",
+  "vehiculo": "SI",
+  "licencia": "SI",
+  "created_at": "2024-06-11T11:13:44.000000Z",
+  "updated_at": "2024-06-11T21:14:08.000000Z",
+  "idiomas": [
+    "Inglés - Intermedio",
+    "Español - Nativo",
+    "Portugués - Principiante"
+  ],
+  "facademica": [
+    {
+      "nivel": "Universitario",
+      "institucion": "UEES",
+      "estado": "Completado",
+      "especialidad": "Ingeniería en Sistemas Computacionales"
+    },
+    {
+      "nivel": "Maestría",
+      "institucion": "UFG",
+      "estado": "Estudiando",
+      "especialidad": "Gestión de TICS"
+    }
+  ],
+  "exlaboral": [
+    {
+      "puesto": "Analista Contable",
+      "salario": "600",
+      "empresa": "Las Cascadas",
+      "fechaingreso": "16-01-2019",
+      "fechasalida": "15-12-2018"
+    },
+    {
+      "puesto": "Supervisor de Piso",
+      "salario": "1600",
+      "empresa": "Agua las Perlitas",
+      "fechaingreso": "16-12-2018"
+    }
+  ]
+}]

@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a409"
+  },
+  "id": 1,
+  "nombre": "Ahuachapan"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40a"
+  },
+  "id": 2,
+  "nombre": "Santa Ana"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40b"
+  },
+  "id": 3,
+  "nombre": "Sonsonate"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40c"
+  },
+  "id": 4,
+  "nombre": "Chalatenango"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40d"
+  },
+  "id": 5,
+  "nombre": "La Libertad"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40e"
+  },
+  "id": 6,
+  "nombre": "San Salvador"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a40f"
+  },
+  "id": 7,
+  "nombre": "Cuscatlan"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a410"
+  },
+  "id": 8,
+  "nombre": "La Paz"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a411"
+  },
+  "id": 9,
+  "nombre": "Cabañas"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a412"
+  },
+  "id": 10,
+  "nombre": "San Vicente"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a413"
+  },
+  "id": 11,
+  "nombre": "Usulutan"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a414"
+  },
+  "id": 12,
+  "nombre": "San Miguel"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a415"
+  },
+  "id": 13,
+  "nombre": "Morazan"
+},
+{
+  "_id": {
+    "$oid": "68f3a94c748aee152d41a416"
+  },
+  "id": 14,
+  "nombre": "La Union"
+}]
